@@ -11,7 +11,7 @@
    0.5714285714285714 * 315 = 180 px
 
    320px x 180px = rétt hlutfall
-   
+
 */
 
 /* 20em = 320px*/
@@ -44,23 +44,23 @@
 
  @media screen and (min-width:48em){
   .gluggi {
-    width:46em; /*736px;*/ 
+    width:100%; /*736px;*/ 
     height:24.6em; /*414px;*/ 
   }
 }
 @media screen and (min-width:60em){
   .gluggi {
-    width:58em; /*950px;*/ 
+    width:100%; /*950px;*/ 
     height:33em; /*534px;*/ 
   }
 }
-@media screen and (min-width: 80em) {
+/*@media screen and (min-width: 80em) {
     .gluggi { 
-      width:78em; /*1248px;*/ 
-      height:44em; /*~702px;*/ 
+      width:100%; /*1248px;
+      height:44em; /*~702px;
     }
   } 
-
+*/
 
 /* google kort */
 
